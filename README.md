@@ -1,25 +1,17 @@
-# Project-Day-1 - Realestate Major Purchasing Decisions
-Potential homeowners can search and filter all the important criteria, from price to property type, location, transportaion, crime rate, activities, noise data, and crime to help find the right area. I have been increasingly disappointed by the lack of innovation in real estate technology. While this project is in no way going to reshape the MLS, I hope that it shows that, at least in a relatively simple way with limited functionality, that the digital tools for potential homeowners, both in a digital marketing capacity as well as when finding homes for sale, can be simple, useful and powerful. 
+# Project-Day-1 - Find A Home Made Easy
+I have been increasingly disappointed by the lack of innovation in real estate technology. This project is about how to help the consumer make better decisions when purchasing a home. Potential homeowners can search and filter all the important criteria, from price to property type, location, transportaion, crime rate, recreation activities, and noise data, to help locate the perfect area. While this project is in no way going to reshape the MLS, I hope that it shows that, at least in a relatively simple way with limited functionality, that the digital tools for potential homeowners, both in a digital marketing capacity as well as when finding homes for sale, can be simple, useful and powerful. 
 
 # Prepared By:
 Marjorie Lawrence, Christoper Perez, Dean Jung Min Kim
 
-# Project Scope
-Home Page includes ability for anyone to view Listings & Rentals (with varying levels of detail)
-Home Page allows a visitor to register 
-Once logged in (or registered for the first time) user is sent to Dashboard with the options of creating, editing, or deleting listings or rentals
-Login/Logout authentication
-Any user can see all current listings & rentals and contact the listing agent, view more details about the property, and view any photos associated with listing
-Mobile-first, fully responsive design
-Handling of photo upload/storage/deletion is done thru FileStack
-Features made-from-scratch responsive, mobile-friendly navbar with drop-down menu for smaller screens (much simpler stand-alone example found here)
-Grid system for layout is also "home made" without using any external grid systems such as Bootstrap (simple example found here)
 # Introduction
-Realtors are not readily available and sometime when notified takes a couple days for them to reach back out.  This APP is meant to provide the initial research a realtor would provide cutting down the time taken to make a decision to purchase or not to purchase a home.
+Realtors are not readily available and sometime when notified it takes a couple days for them to reach back out. This Moble APP is meant to make readily available all the pertinent information a potential homeowner would need to find the best home for their family. 
+
 # Purpose of Project
-Build a mobile APP that capable of providing data for; 
-Search and filter all criteria, from price to property type to keyword. The map view has several overlay options, including schools, crime, and noise data to help you find the right area.
-# Hypothesis:
+Build a mobile APP that capable of providing the following data; 
+
+# Hypothesis
+
 # Data Source:
 Kaggle
 Data.gov
@@ -33,7 +25,11 @@ Medium APIs List
 # Data Visualization
 # Questions & Data
 How can we leverage what we have learned to predict the value of investments?
-How does investing in real estate compare with investing in other investment vehicles (Real Estate Investment Trusts (REITs), Stock Indices, etc.)?
-What is a Real Estate Investment Trust (REIT)? REIT = stock for real estate.
-How does investing in real estate compare with investing in other investment vehicles (Real Estate Investment Trusts (REITs), Stock Indices, etc.)?
+This project is about how to make good decisions when purchasing a family home. Potential homeowners would want to know;
+
+Which US states are considered the most affordable communities to live in for a young family
+What States have the lowest crime rate
+The Top 10 Cities in the US with the lowest crime rate
+Which cities have the most entertainment
+
 # Summary & Conclusions
