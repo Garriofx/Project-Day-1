@@ -1,13 +1,9 @@
 # Project-Day-1 - Realestate Major Purchasing Decisions
-Potential homeowners can search and filter all the important criteria, from price to property type, location, transportaion, crime rate, activities, noise data, and crime to help find the right area. 
-•	
-•	
-•	What is a Real Estate Investment Trust (REIT)? REIT = stock for real estate.
-•	How does investing in real estate compare with investing in other investment vehicles (Real Estate Investment Trusts (REITs), Stock Indices, etc.)?
-•	
+Potential homeowners can search and filter all the important criteria, from price to property type, location, transportaion, crime rate, activities, noise data, and crime to help find the right area. I have been increasingly disappointed by the lack of innovation in real estate technology. While this project is in no way going to reshape the MLS, I hope that it shows that, at least in a relatively simple way with limited functionality, that the digital tools for potential homeowners, both in a digital marketing capacity as well as when finding homes for sale, can be simple, useful and powerful. 
+
 # Prepared By:
-Marjorie Lawrence, 
-Christoper Perez, 
+Marjorie Lawrence 
+Christoper Perez
 Dean Jung Min Kim
 # Project Scope
 Home Page includes ability for anyone to view Listings & Rentals (with varying levels of detail)
@@ -39,5 +35,7 @@ Medium APIs List
 # Data Visualization
 # Questions & Data
 How can we leverage what we have learned to predict the value of investments?
+How does investing in real estate compare with investing in other investment vehicles (Real Estate Investment Trusts (REITs), Stock Indices, etc.)?
+What is a Real Estate Investment Trust (REIT)? REIT = stock for real estate.
 How does investing in real estate compare with investing in other investment vehicles (Real Estate Investment Trusts (REITs), Stock Indices, etc.)?
 # Summary & Conclusions
