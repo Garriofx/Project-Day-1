@@ -1,12 +1,12 @@
 # Project-Day-1 - Find A Home Made Easy
-I have been increasingly disappointed by the lack of innovation in real estate technology. This project is about how to help the consumer make better decisions when purchasing a home. Potential homeowners can search and filter all the important criteria, from price to property type, location, transportaion, crime rate, recreation activities, and noise data, to help locate the perfect area. While this project is in no way going to reshape the MLS, I hope that it shows that, at least in a relatively simple way with limited functionality, that the digital tools for potential homeowners, both in a digital marketing capacity as well as when finding homes for sale, can be simple, useful and powerful. 
+This project is about how to help the consumer make better decisions when purchasing a home. Potential homeowners can search and filter all the important criteria, from price to property type, location, transportaion, crime rate, recreation activities, and noise data, to help locate the perfect area. While this project is in no way going to reshape the MLS, I hope that it shows that, at least in a relatively simple way with limited functionality, showcase a tool that is simple, useful and powerful. 
 
 # Prepared By:
 Marjorie Lawrence, Christoper Perez, Dean Jung Min Kim
 
 # Introduction
 Realtors are not readily available and sometime when notified it takes a couple days for them to reach back out. This Moble APP is meant to make readily available all the pertinent information a potential homeowner would need to find the best home for their family. 
-
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 # Purpose of Project
 Build a mobile APP that capable of providing the following data; 
 
