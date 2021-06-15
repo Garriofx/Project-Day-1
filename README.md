@@ -1,14 +1,16 @@
-# Project-Day-1 - Find A Home Made Easy
+# Project-Day-1 - The Future of Real Estate Investment
 This project is about building an application that helps investeror to determine the future  of real estate investment. How to determine if the investement opportunity is time consuming and misleading.   
 
 # Prepared By:
-Marjorie Lawrence, Christoper Perez, Dean Jung Min Kim
+Marjorie Lawrence, Christoper Perez, Dean Jung Min Kim, 
 
 # Introduction
-Realtors are not readily available and sometime when notified it takes a couple days for them to reach back out. This Moble APP is meant to make readily available all the pertinent information a potential homeowner would need to find the best home for their family. 
+Predicting the future is especially problematic when the rapid pace of change makes it even more difficult to tease future trends out of current events. In response, we cast as wide a net as possible, surveying the landscape for clues and triangulating our research by combining primary research, in the form of surveys and researching interviews of fund managers and investors, with secondary research sources. Long accustomed to gauging opportunities in the context of cycles, real estate investors now face a series of bewildering structural changes that will fundamentally transform how they operate in the future. The unprecedented upheaval caused by the coronavirus will inevitably shift priorities and perspectives. Perhaps most profoundly, it could change how we all think about physical space and how it is shared with others. Whatever short-term contortions the property market goes through in response to the economic devastation wrought by this virus, real estate investors should not lose sight of long-term changes in behavior. These will inform how people live and work in the future, ultimately shaping the types of developments that are most desirable in a world that will never be quite the same.  Nowhere is this truer than in real estate investing, where technology, demographics, climate, and affordability are just some of the factors quickly reshaping how and where people live, work and play. Investors and managers need to make increasingly complex calculations, weighing sometimes conflicting concepts such as density versus distance, affordability versus desirability and economics versus sustainability. Will secondary cities that have historically been overlooked but are attractive to dynamic young populations become popular? How will commercial real estate be affected by telecommuting and declining automobile ownership? Will climate change render waterfront property worthless or spur innovations that enable a different relationship to aquatic environments? These and many other questions are being pondered by investment committees worldwide.
+
+Predicting the future is especially problematic when the rapid pace of change makes it even more difficult to tease future trends out of current events. In response, we cast as wide a net as possible, surveying the landscape for clues and triangulating our research by combining primary research, in the form of surveys and interviews of fund managers and investors, with secondary research sources.
 
 # Motivation & Summary
-Build a mobile APP for homebuyers and investors needing immediate information pertaining to; 
+Predicting the future is especially problematic when the rapid pace of change makes it even more difficult to tease future trends out of current events. In response, we cast as wide a net as possible, surveying the landscape for clues and triangulating our research by combining primary research, in the form of surveys and using interviews of fund managers and investors, with secondary research sources. Building an APP capable of providing;
 
 Crime Rate
 Ease of access to community services
@@ -28,6 +30,11 @@ The Top 10 Cities in the US with the lowest crime rate
 Which cities have the most entertainment
 
 # Data Cleanup & Exploration
+Process of data cleanup in jupyter lab using python
+Eliminating unnecessary data
+Find enough data to predict returns in real estate more accurately
+![texte]("http://localhost:8888/img/picture.png")
+
 # Data Analysis
 # Discussion
 # Postmortem
