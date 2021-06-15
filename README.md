@@ -34,7 +34,7 @@ Process of data cleanup in jupyter lab using python
 Eliminating unnecessary data
 Find enough data to predict returns in real estate more accurately
 
-![texte](https://github.com/Garriofx/Project-Day-1/picture.png)
+![texte](https://github.com/Garriofx/Project-Day-1/picture1.jpg)
 
 # Data Analysis
 # Discussion
