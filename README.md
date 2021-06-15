@@ -33,9 +33,8 @@ Which cities have the most entertainment
 Process of data cleanup in jupyter lab using python
 Eliminating unnecessary data
 Find enough data to predict returns in real estate more accurately
-https://login.microsoftonline.com/common/oauth2/authorize?resource=https%3a%2f%2fmanagement.core.windows.net%2f&response_mode=form_post&response_type=code+id_token&scope=user_impersonation+openid&state=OpenIdConnect.AuthenticationProperties%3dKu9SFZFGxFulgkK37cOSw8zVlWXloPKknoi40Q4hyiF5-fQsVJrsgOhx-7Bm4euuBZG50QWnYI46AgBSaQx7fGZdg_Vnosa9L1Zll3SCJCP3c8jcSFQ1ETmkVqWfrRVaK2FCXcPxTfaQh5xpTvIcoKrYpufPrTB4g0VuqVEv69eSojFblDOnmQFYJcUneWHmg2QwFyVpZFeJJDFllylwnT3HdIwoJc0aElvN2HMKxahpQbRinM-W-6FE3lMRnnPCO46qeu0-hvTkHCriWQxXNFGJkf3YT3g-oPFnA4BjLSW2l56eSA4TfdsGlzNEOQGCIRrVCbwNe3ozZppgtbn_7MsfS_T_skBfIy5j8jxEq4I&nonce=637077448600769996.ZWYyMDRiNWItMmJlYS00YzA2LWEyY2ItMjNmMzNlYTM2YjNmMmI3YzYxOTItZWYwYS00NTU0LThiN2YtYWIwYjA4N2UwZjBi&client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&redirect_uri=https%3a%2f%2fportal.azure.com%2fsignin%2findex%2f%3ffeature.refreshtokenbinding%3dtrue&site_id=501430&client-request-id=ae085f66-4d8b-443e-9186-52a9fdacff30&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554
 
-
+http://localhost:8888/lab/tree/gwu-virt-fin-pt-04-2021-u-c/03-Projects/Project-01/Picture1.jpg
 
 
 # Data Analysis
