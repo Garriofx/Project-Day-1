@@ -51,4 +51,3 @@ Medium APIs List
 
 # Summary & Conclusions
 The future of real estate will be driven by new technologies, buyer-agent relationships, and changing homeowner demographics. Real estate investors hoping to achieve success will need to learn to thrive amidst these changes. With new software to speed up closing timelines, online listing sites resulting in more informed buyers, and new age groups entering the real estate market, the industry is transitioning in big ways. Even expert predictions suggest impending market changes. All in all, when it comes to the future of real estate, investors have a lot to look forward to.
-# Questions (Q&A)
