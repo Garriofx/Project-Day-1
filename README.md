@@ -34,6 +34,13 @@ JupterLab (phyton)
 Monte carlo
 Plotly
 
+# Datasets House Price Prediction
+To predict house prices using supply-demand features, three main datasets have been used.
+
+Federal Reserve Interest Rates (1954 - 2017)
+Unemployment Rate by County in the USA (2000 - 2018)
+Zillow economics data (County_time_series and Crosswalk)
+
 # Data Source
 Data.gov
 US Census
