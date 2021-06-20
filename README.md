@@ -1,7 +1,7 @@
 # Project-Day-1 - Predicting House Prices 
 This aim of this project is to provide the best counties/areas in the USA to invest in for a national real estate developer, individual buyers, banks looking for a place to develop and new apartment building or to purchase. Another goal is to predict the house prices in a county in the next few months. Price prediction using Machine learning algorithms XGBoost and Linear Regression considering factors such as Median income in a county, Crime rate in that county, public schools, hospitals, hospital ratings and unemployment rate in the county. Module moved to noteworthy Python libraries and the usefulness of libraries such as Pandas, Numpy, Seaborn, and Matplotlib.
 
-# Prepared By:
+# Prepared By
 Marjorie Lawrence 
 
 # Introduction
