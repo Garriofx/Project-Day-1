@@ -12,15 +12,6 @@ Predicting the future is especially problematic when the rapid pace of change ma
 # Motivation & Summary
 Predicting the future is especially problematic when the rapid pace of change makes it even more difficult to tease future trends out of current events. In response, we cast as wide a net as possible, surveying the landscape for clues and triangulating our research by combining primary research, in the form of surveys and using interviews of fund managers and investors, with secondary research sources. Building an APP capable of providing;
 
-Crime Rate
-Ease of access to community services
-Historical property value
-School districk raning
-Median income
-Trajected property value
-Easy Access to Transportation
-Access to Entertainment
-
 # Question & Data
 
 Determing what data to use to perdict the pricing of real estate property.
@@ -36,18 +27,11 @@ Find enough data to predict returns in real estate more accurately
 
 http://localhost:8888/lab/tree/gwu-virt-fin-pt-04-2021-u-c/03-Projects/Project-01/Picture1.jpg
 
-
-# Data Analysis
-# Discussion
-# Postmortem
-
 # Modeling and calculations
 Maplot
 JupterLab (phyton)
 Monte carlo
 Plotly
-
-# Data Visualization
 
 # Data Source
 Kaggle
